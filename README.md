@@ -1,4 +1,4 @@
-#  Image Encryption  & Decryption Using Triple DES
+#  Image Encryption  & Decryption Using Triple DES 💻🔐🏞
 
 Mini project for encrypting/decrypting images through web app.
 
