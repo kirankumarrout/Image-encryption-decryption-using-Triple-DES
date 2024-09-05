@@ -1,4 +1,5 @@
-# Secure images with TripleDES
+#  Image encryption  & decryption using Triple DES
+
 Mini project for encrypting/decrypting images through web app.
 
 ## Introduction
