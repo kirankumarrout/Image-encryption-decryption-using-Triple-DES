@@ -31,8 +31,4 @@ By utilizing Triple DES, this web application provides a reliable solution for e
 
 
 
-## Setup
-No need to install anything, just launch the dashboard page and go.
-Still don't know how it works? Watch this video.
-
 
